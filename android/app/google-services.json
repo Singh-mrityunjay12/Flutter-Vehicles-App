@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138088718871",
+    "project_id": "vehicales-18608",
+    "storage_bucket": "vehicales-18608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138088718871:android:5e0f7dcd98fa9a86d37252",
+        "android_client_info": {
+          "package_name": "com.example.vehicales_details"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3752g-tMjN1vTirA3Zhp6tlG5fQ1wB30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
